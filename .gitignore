@@ -1,0 +1,10 @@
+# Build outputs produced by the Makefile
+/darknet
+/libdarknet.a
+/libdarknet.so
+/obj/
+*.o
+
+# Directories created by `make` (training weights backups, results)
+/backup/
+/results/
